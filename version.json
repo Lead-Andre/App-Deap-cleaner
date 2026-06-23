@@ -1,6 +1,6 @@
 {
   "versionCode": 7,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/Lead-Andre/App-Deap-cleaner/releases/download/v2.6/DeepCleaner-v2.6.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v2.6.apk",
   "changelog": "Correcao da limpeza do clipboard (WhatsApp e outros apps) e novo sistema de atualizacao automatica."
 }
