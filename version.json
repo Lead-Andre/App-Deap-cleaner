@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "2.6",
-  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v2.6.apk",
-  "changelog": "Correcao da limpeza do clipboard (WhatsApp e outros apps) e novo sistema de atualizacao automatica."
+  "versionCode": 8,
+  "versionName": "2.7",
+  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v2.7.apk",
+  "changelog": "Teste de atualizacao automatica v2.7 - sistema OTA funcionando corretamente."
 }
