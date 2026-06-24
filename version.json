@@ -2,5 +2,5 @@
   "versionCode": 9,
   "versionName": "2.8",
   "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v2.8.apk",
-  "changelog": "Verificacao manual de atualizacao corrigida. Toque longo no botao S para verificar."
+  "changelog": "Corrigido crash ao verificar atualizacao manualmente (toque longo no botao S)."
 }
