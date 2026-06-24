@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "2.7",
-  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v2.7.apk",
-  "changelog": "Teste de atualizacao automatica v2.7 - sistema OTA funcionando corretamente."
+  "versionCode": 9,
+  "versionName": "2.8",
+  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v2.8.apk",
+  "changelog": "Teste da verificacao manual de atualizacao via toque longo no botao S."
 }
