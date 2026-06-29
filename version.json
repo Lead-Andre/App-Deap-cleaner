@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "3.1",
-  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v3.1.apk",
-  "changelog": "Teste de atualizacao OTA em multiplos dispositivos - v3.1."
+  "versionCode": 13,
+  "versionName": "3.2",
+  "apkUrl": "https://raw.githubusercontent.com/Lead-Andre/App-Deap-cleaner/main/DeepCleaner-v3.2.apk",
+  "changelog": "Teste OTA v3.2 - sistema de atualizacao automatica e manual validado."
 }
